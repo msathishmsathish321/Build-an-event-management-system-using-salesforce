@@ -2,6 +2,8 @@
 
 PROJECT VIDEO - https://drive.google.com/file/d/1EfcxSi0j7pkU-zoySITIv-yV-0KgpGvV/view?usp=drivesdk
 
+PROJECT REPORT FILE - https://drive.google.com/file/d/1Glk6XcWV3D7YjH_zg-ZXSmhG96rgiAP7/view?usp=drivesdk
+
 Team Lead - https://trailblazer.me/id/sathishrdm
 
 Team Member 1 - https://trailblazer.me/id/ranjanirdm
