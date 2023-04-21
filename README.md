@@ -1,8 +1,8 @@
 # Build-an-event-management-system-using-salesforce
 
-PROJECT VIDEO - https://drive.google.com/file/d/1EfcxSi0j7pkU-zoySITIv-yV-0KgpGvV/view?usp=drivesdk
+PROJECT VIDEO - 
 
-PROJECT REPORT - https://github.com/sujitha6789/CRM-for-vehicle-management/blob/main/README.md
+PROJECT REPORT -https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/36bed215ac0cf37dedb817d1079ed4d782fe8867/Build%20An%20EMS.pdf
 
 Team Lead - https://trailblazer.me/id/sathishrdm
 
