@@ -1,6 +1,6 @@
 # Build-an-event-management-system-using-salesforce
 
-PROJECT VIDEO - 
+PROJECT VIDEO - https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/53ff4bb89eb57a79223d027a49a04606b39d18c7/Project%20Intro%20Video.mp4
 
 PROJECT REPORT - 
 
