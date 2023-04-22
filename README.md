@@ -2,7 +2,7 @@
 
 PROJECT VIDEO - https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/53ff4bb89eb57a79223d027a49a04606b39d18c7/Project%20Intro%20Video.mp4
 
-PROJECT REPORT - 
+PROJECT REPORT - https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/9157649a77bb9e3cfdd2d34e5c945bb7aac9cf21/Project%20Report.pdf
 
 Team Lead - https://trailblazer.me/id/sathishrdm
 
