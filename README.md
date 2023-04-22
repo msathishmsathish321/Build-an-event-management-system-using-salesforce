@@ -1,8 +1,8 @@
 # Build-an-event-management-system-using-salesforce
 
-PROJECT VIDEO - https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/977378ca31d203dd077b3ae584b13ab344ada091/PROJECT%20INTRO.VIDEO.pdf
+PROJECT VIDEO - 
 
-PROJECT REPORT -https://github.com/msathishmsathish321/Build-an-event-management-system-using-salesforce/blob/36bed215ac0cf37dedb817d1079ed4d782fe8867/Build%20An%20EMS.pdf
+PROJECT REPORT - 
 
 Team Lead - https://trailblazer.me/id/sathishrdm
 
